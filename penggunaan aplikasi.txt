@@ -1,0 +1,21 @@
+Cara menjalankan aplikasi
+
+Sebagai Pembeli
+1. Buka browser, ketikkan "http://localhost/toko_online/"
+2. Untuk melakukan transaksi, pembeli harus login.
+3. Setelah memilih barang bisa langsung checkout
+4. Setelah checkout akan muncul detail belanja dan total belanja.
+5. Pembeli bisa melanjutkan checkout atau bisa memilih dan menghapus daftar belanja.
+
+Sebagai Admin
+1. Buka browser, ketikkan "http://localhost/toko_online/"
+2. Login dengan username dan password
+3. Admin bisa melakukan CURD produk dan bisa melihat list belanja yang sudah dilakukan oleh pembeli.
+
+akun:
+1. pembeli
+  username : Putra
+  password : 12345
+2. Admin
+  username : Admin
+  password : Admin
